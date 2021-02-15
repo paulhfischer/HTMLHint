@@ -1,0 +1,6 @@
+- id: htmlhint
+  name: htmlhint
+  description: Static code analysis tool you need for your HTML.
+  entry: htmlhint
+  language: node
+  types: [html]

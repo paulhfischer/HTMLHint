@@ -12,4 +12,5 @@
   - Integrations
     - [Editor](user-guide/integrations/editor.md)
     - [Task runner](user-guide/integrations/task-runner.md)
+    - [git hooks](user-guide/integrations/git-hooks.md)
     - [Other](user-guide/integrations/other.md)
